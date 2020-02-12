@@ -1,6 +1,6 @@
 <h2>Lifetime of no.1 hits</h2>
 
-<h3>Lifetime of a Billboard no.1 song (all plots, 2 yr increments ver.)</h3>
+**Lifetime of a Billboard no.1 song (all plots, 2 yr increments ver.)**
 
 Full code: [rankVsDate_period_rank_plotlysy_final-5(1).py](rankVsDate_period_rank_plotlysy_final-5(1).py)
 
@@ -8,7 +8,7 @@ Full code: [rankVsDate_period_rank_plotlysy_final-5(1).py](rankVsDate_period_ran
 
 
 
-<h3>Lifetime of a Billboard no.1 song (mean only ver.)</h3>
+**Lifetime of a Billboard no.1 song (mean only ver.)**
 
 Full code: [rankVsDate_period_rank_plotlysy_final-5(1)_ONLYMEAN.py](rankVsDate_period_rank_plotlysy_final-5(1)_ONLYMEAN.py)
 
