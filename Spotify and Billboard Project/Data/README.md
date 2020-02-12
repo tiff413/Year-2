@@ -26,4 +26,4 @@ Two datasets were obtained from the program:
 * Song features:
   * acousticness, danceability, energy, instrumentalness, liveness, loudness, speechiness, tempo, valence, duration_ms, mode, key, time_signature, popularity
   
-*More details about data (morale, summarised method, explanation of Spotify audio features): https://musicandstreamingservices.github.io/data.html*
+*For more details about data (morale, summarised method, explanation of Spotify audio features): https://musicandstreamingservices.github.io/data.html*
