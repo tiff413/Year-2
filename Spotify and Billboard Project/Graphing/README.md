@@ -2,7 +2,7 @@
 
 What? | Full code | Visualisation
 ------|-----------|--------------
-**Lifetime of a Billboard no.1 song (all plots, 2 yr increments ver.)**|[rankVsDate_period_rank_plotlysy_final-5(1).py]|(rankVsDate_period_rank_plotlysy_final-5(1).py)|[Visualisation](https://chart-studio.plot.ly/~thisistiff/30/#/)
+**Lifetime of a Billboard no.1 song (all plots, 2 yr increments ver.)**[rankVsDate_period_rank_plotlysy_final-5(1).py]|(rankVsDate_period_rank_plotlysy_final-5(1).py)|[Visualisation](https://chart-studio.plot.ly/~thisistiff/30/#/)
 
 
 **Lifetime of a Billboard no.1 song (mean only ver.)**
