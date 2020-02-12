@@ -9,8 +9,8 @@ The program uses Beautiful Soup for webscraping. The datetime module is also use
 * The date you want to scrape until (end date)
 
 **Outputs**
-For the 100 top Billboard songs per week: 
-* rank, date, song name, artist names, previous week rank, peak rank, total weeks on chart (written into CSV file)
+* For the 100 top Billboard songs per week: 
+  * rank, date, song name, artist names, previous week rank, peak rank, total weeks on chart (written into CSV file)
 
 <h2>Retrieving Spotify Data (scrapeSpotify.py)</h2>
 
