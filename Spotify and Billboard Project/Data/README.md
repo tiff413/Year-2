@@ -1,4 +1,4 @@
-<h2>Retrieving Billboard Hot 100 Data (webscrapeBillboard.py)</h2>
+<h2>Retrieving Billboard Hot 100 Data [webscrapeBillboard.py](webscrapeBillboard.py)</h2>
 
 This program scrapes the Billboard music chart website and records the Hot 100 songs every week within a certain period.
 
@@ -10,7 +10,7 @@ This program scrapes the Billboard music chart website and records the Hot 100 s
 * For the 100 top Billboard songs per week: 
   * rank, date, song name, artist names, previous week rank, peak rank, total weeks on chart (written into CSV file)
 
-<h2>Retrieving Spotify Data (scrapeSpotify.py)</h2>
+<h2>Retrieving Spotify Data [scrapeSpotify.py](scrapeSpotify.py)</h2>
 
 Two datasets were obtained from the program:
 1. Spotify audio features of the Year End Hot 100 Billboard songs (per year)
