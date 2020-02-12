@@ -21,15 +21,7 @@ Average loudness of Billboard Year End Hot 100 songs (1980-2019)|[spotifyData_fe
 
 <h2>Radar charts - how audio features have changed over time</h2>
 
-**Spotify audio features of Year End Billboard Hot 100 songs (1980-2019)**
-
-Full code: [spotifyData_features_radarChart.py](spotifyData_features_radarChart.py)
-
-[Visualisation](https://chart-studio.plot.ly/~thisistiff/8)
-
-
-**Spotify audio features of Billboard Hot 100 songs (per decade)**
-
-Full code: [spotifyData_features_radarChart_decadeData.py](spotifyData_features_radarChart_decadeData.py)
-
-[Visualisation](https://chart-studio.plot.ly/~thisistiff/1)
+What is being plotted? | Full code | Visualisation
+------|-----------|--------------
+Spotify audio features of Year End Billboard Hot 100 songs (1980-2019)|[spotifyData_features_radarChart.py](spotifyData_features_radarChart.py)|[See graph](https://chart-studio.plot.ly/~thisistiff/8)
+Spotify audio features of Billboard Hot 100 songs (per decade)|[spotifyData_features_radarChart_decadeData.py](spotifyData_features_radarChart_decadeData.py)|[See graph](https://chart-studio.plot.ly/~thisistiff/1)
