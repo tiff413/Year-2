@@ -1,8 +1,8 @@
 **How have streaming services modified popular music’s consumption and production?**
 
 In this group project, my role was to:
-* [retrieving data](/Data/) using webscraping and Spotify APIs
-* [visualising data](/Graphing/) using plotly
+* [retrieving data](/Data) using webscraping and Spotify APIs
+* [visualising data](/Graphing) using plotly
 
 **Conclusions**
 
