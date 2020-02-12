@@ -4,25 +4,25 @@ This program scrapes the Billboard music chart website and records the Hot 100 s
 
 The program uses Beautiful Soup for webscraping. The datetime module is also used to compare and iterate time, while the time module is used to delay the looping so that the IP address won’t be blocked.
 
-Inputs
+**Inputs**
 * The date you want to start scraping from (start date)
 * The date you want to scrape until (end date)
 
-Outputs
+**Outputs**
 * For the 100 top Billboard songs per week: 
   * rank, date, song name, artist names, previous week rank, peak rank, total weeks on chart (written into CSV file)
 
-**Retrieving Spotify Data (scrapeSpotify.py)**
+<h2>Retrieving Spotify Data (scrapeSpotify.py)</h2>
 
 Two datasets were obtained from the program:
 1. Spotify audio features of the Year End Hot 100 Billboard songs (per year)
 2. Spotify audio features of every Hot 100 Billboard song (per decade)
 
-Inputs
+**Inputs**
 * Spotify user URI
 * Key phrase (if the key is in the playlist name, the playlist will be scraped)
 
-Outputs
+**Outputs**
 * Song name and song URI
 * Artist name and artist URI
 * Song features:
