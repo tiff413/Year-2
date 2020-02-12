@@ -1,4 +1,6 @@
-<h2>Retrieving Billboard Hot 100 Data [webscrapeBillboard.py](webscrapeBillboard.py)</h2>
+<h2>Retrieving Billboard Hot 100 Data</h2>
+[webscrapeBillboard.py](webscrapeBillboard.py)
+
 
 This program scrapes the Billboard music chart website and records the Hot 100 songs every week within a certain period.
 
