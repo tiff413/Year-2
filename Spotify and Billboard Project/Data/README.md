@@ -6,7 +6,7 @@ The program uses Beautiful Soup for webscraping. The datetime module is also use
 
 Inputs | Outputs
 -------| -------
-The date you want to start scraping from (start date)|For the 100 top Billboard songs per week: rank, date, song name, artist names, previous week rank, peak rank, total weeks on chart (written into CSV file)
+* The date you want to start scraping from (start date)|For the 100 top Billboard songs per week: rank, date, song name, artist names, previous week rank, peak rank, total weeks on chart (written into CSV file)
 The date you want to scrape until (end date) | 
 
 
