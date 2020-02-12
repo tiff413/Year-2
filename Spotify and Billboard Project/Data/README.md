@@ -2,8 +2,6 @@
 
 This program scrapes the Billboard music chart website and records the Hot 100 songs every week within a certain period.
 
-The program uses Beautiful Soup for webscraping. The datetime module is also used to compare and iterate time, while the time module is used to delay the looping so that the IP address won’t be blocked.
-
 **Inputs** 
 * The date you want to start scraping from (start date)
 * The date you want to scrape until (end date)
