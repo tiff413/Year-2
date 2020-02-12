@@ -1,3 +1,5 @@
+<h2>Lifetime of no.1 hits</h2>
+
 <h3>Lifetime of a Billboard no.1 song (all plots, 2 yr increments ver.)</h3>
 
 Full code: [rankVsDate_period_rank_plotlysy_final-5(1).py](rankVsDate_period_rank_plotlysy_final-5(1).py)
@@ -13,6 +15,7 @@ Full code: [rankVsDate_period_rank_plotlysy_final-5(1)_ONLYMEAN.py](rankVsDate_p
 [Visualisation](https://chart-studio.plot.ly/~thisistiff/39)
 
 
+<h2>How audio features in popular songs have changed over time</h2>
 
 <h3>Spotify audio features of Year End Billboard Hot 100 songs (1980-2019)</h3>
 
@@ -27,3 +30,27 @@ Full code: [spotifyData_featuresOverTime.py](spotifyData_featuresOverTime.py)
 Full code: [spotifyData_featuresOverTime_decadeData.py](spotifyData_featuresOverTime_decadeData.py)
 
 [Visualisation](https://chart-studio.plot.ly/~thisistiff/4)
+
+
+
+<h3>Average duration of Billboard Year End Hot 100 songs (1980-2019)</h3>
+
+Full code: [spotifyData_featuresOverTime_decadeData.py](spotifyData_featuresOverTime_decadeData.py)
+
+[Visualisation](https://chart-studio.plot.ly/~thisistiff/23)
+
+
+
+<h3>Average energy of Billboard Year End Hot 100 songs (1980-2019)</h3>
+
+Full code: [spotifyData_featuresOverTime_decadeData.py](spotifyData_featuresOverTime_decadeData.py)
+
+[Visualisation](https://chart-studio.plot.ly/~thisistiff/14)
+
+
+
+<h3>Average loudness of Billboard Year End Hot 100 songs (1980-2019)</h3>
+
+Full code: [spotifyData_featuresOverTime_decadeData.py](spotifyData_featuresOverTime_decadeData.py)
+
+[Visualisation](https://chart-studio.plot.ly/~thisistiff/25)
