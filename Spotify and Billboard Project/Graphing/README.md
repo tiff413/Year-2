@@ -2,8 +2,8 @@
 
 What? | Full code | Visualisation
 ------|-----------|--------------
-**Lifetime of a Billboard no.1 song (all plots, 2 yr increments ver.)**|[rankVsDate_period_rank_plotlysy_final-5(1).py](rankVsDate_period_rank_plotlysy_final-5(1).py)|[See graph](https://chart-studio.plot.ly/~thisistiff/30/#/)
-**Lifetime of a Billboard no.1 song (mean only ver.)**|[rankVsDate_period_rank_plotlysy_final-5(1)_ONLYMEAN.py](rankVsDate_period_rank_plotlysy_final-5(1)_ONLYMEAN.py)|[See graph](https://chart-studio.plot.ly/~thisistiff/39)
+Lifetime of a Billboard no.1 song (all plots, 2 yr increments ver.)|[rankVsDate_period_rank_plotlysy_final-5(1).py](rankVsDate_period_rank_plotlysy_final-5(1).py)|[See graph](https://chart-studio.plot.ly/~thisistiff/30/#/)
+Lifetime of a Billboard no.1 song (mean only ver.)|[rankVsDate_period_rank_plotlysy_final-5(1)_ONLYMEAN.py](rankVsDate_period_rank_plotlysy_final-5(1)_ONLYMEAN.py)|[See graph](https://chart-studio.plot.ly/~thisistiff/39)
 
 
 
@@ -11,11 +11,9 @@ What? | Full code | Visualisation
 
 <h2>Line graphs - how audio features have changed over time</h2>
 
-**Spotify audio features of Year End Billboard Hot 100 songs (1980-2019)**
-
-Full code: [spotifyData_featuresOverTime.py](spotifyData_featuresOverTime.py)
-
-[Visualisation](https://chart-studio.plot.ly/~thisistiff/11)
+What? | Full code | Visualisation
+------|-----------|--------------
+Spotify audio features of Year End Billboard Hot 100 songs (1980-2019)|[spotifyData_featuresOverTime.py](spotifyData_featuresOverTime.py)|[See graph](https://chart-studio.plot.ly/~thisistiff/11)
 
 
 **Spotify audio features of Billboard Hot 100 songs (per decade)**
