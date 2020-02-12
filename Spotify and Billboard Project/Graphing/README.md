@@ -1,4 +1,4 @@
-<h2>Analysis of songs that have reached no.1</h2>
+<h2>Visual analysis of songs that have reached number 1</h2>
 
 **Lifetime of a Billboard no.1 song (all plots, 2 yr increments ver.)**
 
