@@ -12,6 +12,6 @@ On the production side, tracks have become increasingly shorter and include more
 
 
 
-Link to the full project website for more details:
-https://musicandstreamingservices.github.io/
+*Link to the full project website for more details:
+https://musicandstreamingservices.github.io/*
 
